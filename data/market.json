@@ -1,0 +1,28 @@
+{
+  "fetchedAt": "2026-11-18T23:23:14+09:00",
+  "market": {
+    "vix": {
+      "value": 25.46,
+      "changePct": 11.13,
+      "date": "2026-11-17",
+      "source": "Cboe",
+      "url": "https://www.cboe.com/tradable_products/vix/"
+    },
+    "fearGreed": {
+      "value": 26.3,
+      "rating": "Fear",
+      "date": "2026-11-18",
+      "source": "CNN",
+      "url": "https://www.cnn.com/markets/fear-and-greed",
+      "prev": 25.2
+    },
+    "putCall": {
+      "value": 0.98,
+      "label": "Cboe Total Put/Call",
+      "date": "2026-11-17",
+      "source": "Cboe",
+      "url": "https://www.cboe.com/us/options/market_statistics/daily/",
+      "prev": 0.95
+    }
+  }
+}
