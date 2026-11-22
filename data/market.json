@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T11:21:35+09:00",
+  "fetchedAt": "2026-11-22T10:23:24+09:00",
   "market": {
     "fearGreed": {
       "value": 9.7,
@@ -10,12 +10,12 @@
       "prev": 18.7
     },
     "putCall": {
-      "value": 1.01,
+      "value": 1.13,
       "label": "Cboe Total Put/Call",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "Cboe",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
-      "prev": 1.05
+      "prev": 1.01
     }
   }
 }
