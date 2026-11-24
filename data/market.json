@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-11-23T10:47:01+09:00",
+  "fetchedAt": "2026-11-24T14:21:25+09:00",
   "market": {
     "fearGreed": {
-      "value": 9.7,
+      "value": 17.0,
       "rating": "Extreme Fear",
-      "date": "2026-11-20",
+      "date": "2026-11-24",
       "source": "CNN",
       "url": "https://www.cnn.com/markets/fear-and-greed",
-      "prev": 18.7
+      "prev": 17.0
     },
     "putCall": {
-      "value": 1.13,
+      "value": 0.94,
       "label": "Cboe Total Put/Call",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "source": "Cboe",
       "url": "https://www.cboe.com/us/options/market_statistics/daily/",
-      "prev": 1.01
+      "prev": 1.13
     }
   }
 }
