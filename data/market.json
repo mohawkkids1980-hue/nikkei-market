@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-26T12:37:09+09:00",
+  "fetchedAt": "2026-11-27T12:40:21+09:00",
   "market": {
     "fearGreed": {
-      "value": 15.2,
+      "value": 15.0,
       "rating": "Extreme Fear",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNN",
       "url": "https://www.cnn.com/markets/fear-and-greed",
-      "prev": 17.4
+      "prev": 15.2
     },
     "putCall": {
       "value": 0.98,
